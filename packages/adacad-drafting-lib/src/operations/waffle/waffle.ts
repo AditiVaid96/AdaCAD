@@ -155,5 +155,6 @@ const sizeCheck = (param_vals: Array<OpParamVal>): boolean => {
 
 export const waffle: Operation = { name, meta, params, inlets, perform, generateName, sizeCheck };
 
+can you make the weave for 3 weft consturction and provide with a gradation in it. as a pattern file for ps 
 
 
